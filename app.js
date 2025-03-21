@@ -1,1 +1,3 @@
-comsole.log("oh no");
+function app() {
+    //redirect to register
+} 
