@@ -6,4 +6,4 @@ a toto je také text
 
 git remote update
 
-
+git push -u origin main
