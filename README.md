@@ -11,7 +11,7 @@
 _kurziva_
 
 **_tučná kurzíva_**  
-[sauna](https://www.sounaklubslany.cz)
+[sauna](https://www.sanaklubslany.cz)
 
 
 
