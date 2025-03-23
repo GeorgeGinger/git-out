@@ -1,6 +1,8 @@
 function app() {
     if (loggedIn()) {
         //redirect
+    }else {
+          //redirect to register
     }
 }
 
@@ -8,3 +10,6 @@ function app() {
 function loggedIn() {
     return true;
 }
+
+  
+
